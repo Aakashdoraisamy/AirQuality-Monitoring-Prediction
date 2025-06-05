@@ -92,6 +92,6 @@ Indoor pollution is a serious health issue, and this project provides a real-tim
 - Final Project Report
 
 🔗 **Download Now:**  
-👉 [📥 Click Here to Download via Google Drive]([https://drive.google.com/your-shared-link](https://drive.google.com/drive/folders/1XGcm2L7Y3-N2DtVwt97S9oxgQTbCw9UK?usp=drive_link)
+👉 [📥 Click Here to Download via Google Drive](https://drive.google.com/drive/folders/1XGcm2L7Y3-N2DtVwt97S9oxgQTbCw9UK?usp=drive_link)
 
 ---
