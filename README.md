@@ -102,7 +102,7 @@ It collects sensor data via an **Arduino Uno + GSM module**, sends it to the **T
 ## 📷 Screenshots
 
 ### 🔁 ML Model Comparison
-![ML Comparison](images/ML.png)
+![ML Comparison](images/graph.png)
 
 ### 📡 ThingSpeak Dashboard
 ![ThingSpeak Charts](images/thnikspeak.png)
